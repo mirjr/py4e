@@ -1,3 +1,10 @@
-x = 0.6
-x = 3.9 * x * (1 - x)
-print(x)
+import exercise_1 as exe
+
+# Exercise 1
+print(exe.hiName())
+
+# Exercise 2
+print(exe.grossPay())
+
+# Exercise 3
+print(exe.multiFunc())
